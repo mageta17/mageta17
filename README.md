@@ -5,8 +5,7 @@ Welcome to my GitHub profile! I'm passionate about software development, automat
 ### 🔭 Currently Working On  
 - Digital transformation projects using Laravel, Vue.js, and Docker  
 - Automating business processes  
-- Developing a requisition system for streamlined workflow management  
-- Setting up a trading bot for MetaTrader 5  
+- Developing a requisition system for streamlined workflow management 
 
 ### 🌱 Currently Learning  
 - Advanced Laravel techniques  
@@ -14,9 +13,8 @@ Welcome to my GitHub profile! I'm passionate about software development, automat
 
 ### 👯 Looking to Collaborate On  
 - Open-source projects related to automation and digital transformation  
-- Software solutions for businesses and e-commerce  
-- Trading algorithm development  
-
+- Software solutions for businesses and e-commerce
+  
 ### 🤔 Looking for Help With  
 - Scaling and optimizing Docker-based applications   
 
